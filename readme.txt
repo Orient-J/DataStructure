@@ -15,7 +15,9 @@ Sorting
   - shellsort 
   - quicksort 
   - mergesort 
-  - heapsort 
+  - heapsort
+  - bubble
+  - selection
 
 Graphs 
   - adjacency matrix 
