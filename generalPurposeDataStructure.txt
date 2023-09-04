@@ -1,0 +1,5 @@
+For Storing real-world data , => use general purpose datastructure.
+
+For Storing and Retrieving data , use key values 
+  
+  
